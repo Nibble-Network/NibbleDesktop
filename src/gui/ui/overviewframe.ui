@@ -2002,7 +2002,7 @@ font-size: 14px;
 border: none;</string>
         </property>
         <property name="text">
-         <string notr="true">00.00</string>
+         <string notr="true"></string>
         </property>
         <property name="alignment">
          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -2065,7 +2065,7 @@ border: none;</string>
          <rect>
           <x>20</x>
           <y>90</y>
-          <width>91</width>
+          <width>191</width>
           <height>25</height>
          </rect>
         </property>
@@ -2083,7 +2083,7 @@ font-size: 14px;
 border: none;</string>
         </property>
         <property name="text">
-         <string>BTC/USD</string>
+         <string>The VIP lounge is open!</string>
         </property>
        </widget>
        <widget class="QPushButton" name="chartButton">
