@@ -241,7 +241,7 @@ OverviewFrame::OverviewFrame(QWidget *_parent) : QFrame(_parent), m_ui(new Ui::O
   /* Pull the chart */
   QNetworkAccessManager *nam = new QNetworkAccessManager(this);
   connect(nam, &QNetworkAccessManager::finished, this, &OverviewFrame::downloadFinished);
-  const QUrl url = QUrl::fromUserInput("https://i.imgur.com/ssPCEHE.png&width=511&height=191");
+  const QUrl url = QUrl::fromUserInput("https://i.imgur.com/gpKmRvA.png&width=511&height=191");
   QNetworkRequest request(url);
   nam->get(request);
 
@@ -539,7 +539,7 @@ void OverviewFrame::onPriceFound(const QString &_btcnbxc, const QString &_usdnbx
   {
     nbxceur = _eurnbxc.toFloat();
   /*  m_ui->m_nbxcusd->setText("€" + _eurnbxc);*/
-    m_ui->m_btcusd->setText("€" + _eurbtc);
+  /*  m_ui->m_btcusd->setText("€" + _eurbtc);*/
   /* m_ui->m_marketCap->setText("€" + _eurmarketcap);*/
   /*  m_ui->m_volume->setText("€" + _eurvolume);*/
   }
@@ -547,7 +547,7 @@ void OverviewFrame::onPriceFound(const QString &_btcnbxc, const QString &_usdnbx
   {
     nbxcusd = _usdnbxc.toFloat();
  /*   m_ui->m_nbxcusd->setText("$" + _usdnbxc);*/
-    m_ui->m_btcusd->setText("$" + _usdbtc);
+  /*  m_ui->m_btcusd->setText("$" + _usdbtc);*/
   /*  m_ui->m_marketCap->setText("$" + _usdmarketcap); */
   /*  m_ui->m_volume->setText("$" + _usdvolume);*/
   }
