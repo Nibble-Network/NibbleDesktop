@@ -2083,7 +2083,7 @@ font-size: 14px;
 border: none;</string>
         </property>
         <property name="text">
-         <string>The VIP lounge is open!</string>
+         <string>www.demoncodes.com</string>
         </property>
        </widget>
        <widget class="QPushButton" name="chartButton">
