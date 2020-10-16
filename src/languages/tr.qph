@@ -5,7 +5,7 @@
     <target>Hakkında</target>
 </phrase>
 <phrase>
-    <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Version %1&lt;/p&gt;&lt;p&gt;Nibble is a decentralized reward platform with encrypted messages and own privacy protected cryptocurrency. All your NBXC transactions and messages are anonymous. The Nibble Network provides an instant secure, untraceable and unlinkable way of encrypted communication - crypto messages.Nibble is open-source, always has been and always will be. This latest edition of Nibble, has been created from a merger of projects - Nibble Classic and Crumbs. Giving our users the best from both worlds, a simple to use platform, messaging ability, deposits and rewards.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ffa500;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://conceal.network/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ffa500;&quot;&gt;https://conceal.network/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+    <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Version %1&lt;/p&gt;&lt;p&gt;Nibble is a decentralized reward platform with encrypted messages and own privacy protected cryptocurrency. All your Souls transactions and messages are anonymous. The Nibble Network provides an instant secure, untraceable and unlinkable way of encrypted communication - crypto messages.Nibble is open-source, always has been and always will be. This latest edition of Nibble, has been created from a merger of projects - Nibble Classic and Crumbs. Giving our users the best from both worlds, a simple to use platform, messaging ability, deposits and rewards.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ffa500;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://conceal.network/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ffa500;&quot;&gt;https://conceal.network/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
     <target>Conceal.Network, %100 açık kaynak koduyla çalışan, finansal kurumların bir müdahalesi olmadan faiz ödeyen, mevduat ve yatırım programlarına sahip olan, merkezi olmayan bir blok zinciri bankasıdır. Conceal.Network, izlenemeyen ve anonim mesajlaşmalar ve para transferi için güvenli bir yol sağlar. Dağıtık bir muhasebe defteri kullanılarak, gönderen ve alıcı gizli tutulur.</target>
 </phrase>
 <phrase>
@@ -253,8 +253,8 @@ p, li { white-space: pre-wrap; }
     <target></target>
 </phrase>
 <phrase>
-    <source>(minimum of 1 NBXC)</source>
-    <target>(en az 1 NBXC)</target>
+    <source>(minimum of 1 Souls)</source>
+    <target>(en az 1 Souls)</target>
 </phrase>
 <phrase>
     <source>(minimum term of 1 week, maximum 52 weeks)</source>
@@ -329,7 +329,7 @@ p, li { white-space: pre-wrap; }
     <target></target>
 </phrase>
 <phrase>
-    <source> NBXC</source>
+    <source> Souls</source>
     <target></target>
 </phrase>
 <phrase>
@@ -337,8 +337,8 @@ p, li { white-space: pre-wrap; }
     <target></target>
 </phrase>
 <phrase>
-    <source>(minimum of 50,000 NBXC)</source>
-    <target>(en az 50.000 NBXC)</target>
+    <source>(minimum of 50,000 Souls)</source>
+    <target>(en az 50.000 Souls)</target>
 </phrase>
 <phrase>
     <source>(minimum term of 1 quarter, maximum 20 quarters)</source>
@@ -975,8 +975,8 @@ p, li { white-space: pre-wrap; }
     <target>YATIRIMLAR</target>
 </phrase>
 <phrase>
-    <source>NBXC</source>
-    <target>NBXC</target>
+    <source>Souls</source>
+    <target>Souls</target>
 </phrase>
 <phrase>
     <source>VOLUME</source>
@@ -1228,8 +1228,8 @@ p, li { white-space: pre-wrap; }
     <target>KRİPTO MESAJ (İSTEĞE BAĞLI)</target>
 </phrase>
 <phrase>
-    <source>You can send an optional message along with your transfer. There is a 0.000010 NBXC fee per character.</source>
-    <target>Transferinizle birlikte isteğe bağlı bir mesaj gönderebilirsiniz. Karakter başına 0.000010 NBXC ücret kesilir.</target>
+    <source>You can send an optional message along with your transfer. There is a 0.000010 Souls fee per character.</source>
+    <target>Transferinizle birlikte isteğe bağlı bir mesaj gönderebilirsiniz. Karakter başına 0.000010 Souls ücret kesilir.</target>
 </phrase>
 <phrase>
     <source>Some exchanges and other services require that a Payment ID is included when sending funds.</source>
@@ -2109,8 +2109,8 @@ Are you sure?</source>
     <target>bir seed ve bir cüzdan adresin oluşturursunuz.</target>
 </phrase>
 <phrase>
-    <source>■  If you send your public address to someone then they can send you NBXC.</source>
-    <target>■ Cüzdan adresinizi birisine gönderirseniz size NBXC gönderebilirler.</target>
+    <source>■  If you send your public address to someone then they can send you Souls.</source>
+    <target>■ Cüzdan adresinizi birisine gönderirseniz size Souls gönderebilirler.</target>
 </phrase>
 <phrase>
     <source>■  The Nibble Developers have no access to your password, your keys, </source>
@@ -2201,8 +2201,8 @@ Are you sure?</source>
     <target>gizli bir seed ifadesi oluşturun</target>
 </phrase>
 <phrase>
-    <source>seed phrase and access your NBXC</source>
-    <target>seed ifadesi ile içe aktarın ve NBXC&apos;lerinize erişin</target>
+    <source>seed phrase and access your Souls</source>
+    <target>seed ifadesi ile içe aktarın ve Souls&apos;lerinize erişin</target>
 </phrase>
 <phrase>
     <source>and access your assets</source>

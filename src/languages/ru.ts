@@ -750,7 +750,7 @@ Please wait...</source>
     </message>
     <message>
         <location filename="src/gui/ui/overviewframe.ui" line="2540"/>
-        <source>NBXC/USD</source>
+        <source>Souls/USD</source>
         <translation></translation>
     </message>
     <message>
@@ -974,7 +974,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="src/gui/ui/overviewframe.ui" line="4259"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;ABOUT NIBBLE&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Nibble is a decentralized reward platform with encrypted messages and own privacy protected cryptocurrency. All your NBXC transactions and messages are anonymous. The Nibble Network provides an instant secure, untraceable and unlinkable way of encrypted communication - crypto messages.Nibble is open-source, always has been and always will be. This latest edition of Nibble, has been created from a merger of projects - Nibble Classic and Crumbs. 
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;ABOUT NIBBLE&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Nibble is a decentralized reward platform with encrypted messages and own privacy protected cryptocurrency. All your Souls transactions and messages are anonymous. The Nibble Network provides an instant secure, untraceable and unlinkable way of encrypted communication - crypto messages.Nibble is open-source, always has been and always will be. This latest edition of Nibble, has been created from a merger of projects - Nibble Classic and Crumbs. 
 Giving our users the best from both worlds, a simple to use platform, messaging ability, deposits and rewards.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ffa500;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://conceal.network/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ffa500;&quot;&gt;https://conceal.network/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation></translation>
     </message>
@@ -1115,7 +1115,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="src/gui/ui/overviewframe.ui" line="5701"/>
-        <source>0.001000 NBXC</source>
+        <source>0.001000 Souls</source>
         <translation></translation>
     </message>
     <message>
@@ -2454,8 +2454,8 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/gui/ui/welcomeframe.ui" line="335"/>
-        <source>■  If you send your public address to someone then they can send you NBXC.</source>
-        <translation>■  Зная ваш адрес, любой пользователь может переводить вам NBXC.</translation>
+        <source>■  If you send your public address to someone then they can send you Souls.</source>
+        <translation>■  Зная ваш адрес, любой пользователь может переводить вам Souls.</translation>
     </message>
     <message>
         <location filename="src/gui/ui/welcomeframe.ui" line="358"/>
@@ -2569,8 +2569,8 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/gui/ui/welcomeframe.ui" line="1002"/>
-        <source>seed phrase and access your NBXC</source>
-        <translation>мнемонической фразы и получите доступ к своим NBXC</translation>
+        <source>seed phrase and access your Souls</source>
+        <translation>мнемонической фразы и получите доступ к своим Souls</translation>
     </message>
     <message>
         <location filename="src/gui/ui/welcomeframe.ui" line="1028"/>

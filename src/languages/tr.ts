@@ -767,7 +767,7 @@ Lütfen bekle...</translation>
     </message>
     <message>
         <location filename="src/gui/ui/overviewframe.ui" line="2750"/>
-        <source>NBXC/USD</source>
+        <source>Souls/USD</source>
         <translation></translation>
     </message>
     <message>
@@ -1007,7 +1007,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="src/gui/ui/overviewframe.ui" line="4593"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;ABOUT NIBBLE&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Nibble is a decentralized reward platform with encrypted messages and own privacy protected cryptocurrency. All your NBXC transactions and messages are anonymous. The Nibble Network provides an instant secure, untraceable and unlinkable way of encrypted communication - crypto messages.Nibble is open-source, always has been and always will be. This latest edition of Nibble, has been created from a merger of projects - Nibble Classic and Crumbs. 
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;ABOUT NIBBLE&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Nibble is a decentralized reward platform with encrypted messages and own privacy protected cryptocurrency. All your Souls transactions and messages are anonymous. The Nibble Network provides an instant secure, untraceable and unlinkable way of encrypted communication - crypto messages.Nibble is open-source, always has been and always will be. This latest edition of Nibble, has been created from a merger of projects - Nibble Classic and Crumbs. 
 Giving our users the best from both worlds, a simple to use platform, messaging ability, deposits and rewards.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ffa500;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://conceal.network/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ffa500;&quot;&gt;https://conceal.network/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation></translation>
     </message>
@@ -1148,7 +1148,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="src/gui/ui/overviewframe.ui" line="6064"/>
-        <source>0.001000 NBXC</source>
+        <source>0.001000 Souls</source>
         <translation></translation>
     </message>
     <message>
@@ -1236,7 +1236,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="src/gui/ui/overviewframe.ui" line="6837"/>
-        <source>0.000000 NBXC 0.00 USD</source>
+        <source>0.000000 Souls 0.00 USD</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2290,8 +2290,8 @@ Emin misiniz?</translation>
     <name>WalletGui::RecentTransactionDelegate</name>
     <message>
         <location filename="src/gui/TransactionFrame.cpp" line="47"/>
-        <source>Received NBXC</source>
-        <translation>Alınan NBXC</translation>
+        <source>Received Souls</source>
+        <translation>Alınan Souls</translation>
     </message>
     <message>
         <location filename="src/gui/TransactionFrame.cpp" line="50"/>
@@ -2300,8 +2300,8 @@ Emin misiniz?</translation>
     </message>
     <message>
         <location filename="src/gui/TransactionFrame.cpp" line="54"/>
-        <source>Send NBXC</source>
-        <translation>Gönderilen NBXC</translation>
+        <source>Send Souls</source>
+        <translation>Gönderilen Souls</translation>
     </message>
     <message>
         <location filename="src/gui/TransactionFrame.cpp" line="58"/>
@@ -2528,8 +2528,8 @@ Emin misiniz?</translation>
     </message>
     <message>
         <location filename="src/gui/ui/welcomeframe.ui" line="335"/>
-        <source>■  If you send your public address to someone then they can send you NBXC.</source>
-        <translation>■ Cüzdan adresinizi birisine gönderirseniz size NBXC gönderebilirler.</translation>
+        <source>■  If you send your public address to someone then they can send you Souls.</source>
+        <translation>■ Cüzdan adresinizi birisine gönderirseniz size Souls gönderebilirler.</translation>
     </message>
     <message>
         <location filename="src/gui/ui/welcomeframe.ui" line="358"/>
@@ -2643,8 +2643,8 @@ Emin misiniz?</translation>
     </message>
     <message>
         <location filename="src/gui/ui/welcomeframe.ui" line="1002"/>
-        <source>seed phrase and access your NBXC</source>
-        <translation>seed ifadesi ile içe aktarın ve NBXC&apos;lerinize erişin</translation>
+        <source>seed phrase and access your Souls</source>
+        <translation>seed ifadesi ile içe aktarın ve Souls&apos;lerinize erişin</translation>
     </message>
     <message>
         <location filename="src/gui/ui/welcomeframe.ui" line="1028"/>
