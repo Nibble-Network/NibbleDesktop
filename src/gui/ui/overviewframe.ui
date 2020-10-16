@@ -1445,7 +1445,7 @@ font-size: 10px;
 border: none;</string>
         </property>
         <property name="text">
-         <string notr="true">Souls</string>
+         <string notr="true">SOULS</string>
         </property>
        </widget>
        <widget class="QLabel" name="m_tickerLabel1">
@@ -1471,7 +1471,7 @@ font-size: 10px;
 border: none;</string>
         </property>
         <property name="text">
-         <string notr="true">Souls</string>
+         <string notr="true">SOULS</string>
         </property>
        </widget>
        <widget class="QLabel" name="label_10">
@@ -1586,7 +1586,7 @@ font-size: 10px;
 border: none;</string>
         </property>
         <property name="text">
-         <string notr="true">Souls</string>
+         <string notr="true">SOULS</string>
         </property>
        </widget>
        <widget class="QLabel" name="m_unlockedDeposits">
@@ -1670,7 +1670,7 @@ font-size: 10px;
 border: none;</string>
         </property>
         <property name="text">
-         <string notr="true">Souls</string>
+         <string notr="true">SOULS</string>
         </property>
        </widget>
        <widget class="QLabel" name="label_25">
@@ -4045,7 +4045,7 @@ border: none;</string>
 border: none;</string>
        </property>
        <property name="text">
-        <string notr="true">Available Balance: 0.000000 Souls</string>
+        <string notr="true">Available Balance: 0.000000 SOULS</string>
        </property>
        <property name="alignment">
         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -4307,7 +4307,7 @@ QPushButton#m_cancelButton:hover {color: #fff; border: 1px solid #444; font-size
 border: none;</string>
        </property>
        <property name="text">
-        <string notr="true">Fee: 0.001000 Souls</string>
+        <string notr="true">Fee: 0.001000 SOULS</string>
        </property>
        <property name="alignment">
         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -4470,7 +4470,7 @@ QPushButton#m_sendMessageButton:hover {color:#FFD700; ; border: 1px solid green;
 border: none;</string>
        </property>
        <property name="text">
-        <string notr="true">Fee: 0.001000 Souls</string>
+        <string notr="true">Fee: 0.001000 SOULS</string>
        </property>
        <property name="alignment">
         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -5167,7 +5167,7 @@ text-align: left;
           <string notr="true">color: #ccc; font-size: 10px; font-weight: normal; border: none; font-family: 'Poppins';</string>
          </property>
          <property name="text">
-          <string>0.001000 Souls</string>
+          <string>0.001000 SOULS</string>
          </property>
          <property name="alignment">
           <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
@@ -5940,7 +5940,7 @@ text-align: left;
 </string>
       </property>
       <property name="text">
-       <string>0.000000 Souls 0.00 USD</string>
+       <string>0.000000 SOULS 0.00 USD</string>
       </property>
       <property name="alignment">
        <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
