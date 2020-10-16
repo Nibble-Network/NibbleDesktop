@@ -562,7 +562,7 @@ void OverviewFrame::onExchangeFound(QString &_exchange)
   exchangeName = _exchange;
 }
 
-/* Update the total portfolio in NBXC and Fiat on the top left hand corner */
+/* Update the total portfolio in Souls and Fiat on the top left hand corner */
 void OverviewFrame::updatePortfolio()
 {
   QString currentCurrency = Settings::instance().getCurrentCurrency();
@@ -576,7 +576,7 @@ void OverviewFrame::updatePortfolio()
   {
     total = nbxcusd * (float)OverviewFrame::totalBalance;
   }
-  m_ui->m_totalPortfolioLabelUSD->setText(tr("TOTAL") + " " + CurrencyAdapter::instance().formatAmount(OverviewFrame::totalBalance) + " NBXC  ");}/* + CurrencyAdapter::instance().formatCurrencyAmount(total / 10000) + " " + Settings::instance().getCurrentCurrency());
+  m_ui->m_totalPortfolioLabelUSD->setText(tr("TOTAL") + " " + CurrencyAdapter::instance().formatAmount(OverviewFrame::totalBalance) + " Souls  ");}/* + CurrencyAdapter::instance().formatCurrencyAmount(total / 10000) + " " + Settings::instance().getCurrentCurrency());
 }
 
 /* Banking menu button clicked */
@@ -610,7 +610,7 @@ void OverviewFrame::transactionHistoryClicked()
 void OverviewFrame::dashboardClicked()
 {
   m_ui->darkness->hide();
-  m_ui->m_myNibbleWalletTitle->setText("NIBBLE");
+  m_ui->m_myNibbleWalletTitle->setText("Demon Edition");
   m_ui->overviewBox->raise();
   m_ui->m_newTransferButton->show();
   m_ui->m_newMessageButton->show();
@@ -791,9 +791,9 @@ void OverviewFrame::onAddressFound(const QString &_address)
   {
     OverviewFrame::remote_node_fee_address = _address;
     Settings::instance().setCurrentFeeAddress(_address);
-    m_ui->m_sendFee->setText("Fee: 0.011000 NBXC");
-    m_ui->m_messageFee->setText("Fee: 0.011000 NBXC");
-    m_ui->m_depositFeeLabel->setText("0.011000 NBXC");
+    m_ui->m_sendFee->setText("Fee: 0.011000 Souls");
+    m_ui->m_messageFee->setText("Fee: 0.011000 Souls");
+    m_ui->m_depositFeeLabel->setText("0.011000 Souls");
   }
 }
 
@@ -865,7 +865,7 @@ void OverviewFrame::sendFundsClicked()
     /* Is it a Nibble ID? */
     if (CurrencyAdapter::instance().isValidOpenAliasAddress(address))
     {
-      /* Parse the record and set address to the actual NBXC address */
+      /* Parse the record and set address to the actual Souls address */
       std::vector<std::string> records;
       if (!Common::fetch_dns_txt(address.toStdString(), records))
       {
@@ -1113,7 +1113,7 @@ void OverviewFrame::sendMessageClicked()
     /* Is it a Nibble ID? */
     if (CurrencyAdapter::instance().isValidOpenAliasAddress(address))
     {
-      /* Parse the record and set address to the actual NBXC address */
+      /* Parse the record and set address to the actual Souls address */
       std::vector<std::string> records;
       if (!Common::fetch_dns_txt(address.toStdString(), records))
       {
