@@ -1693,7 +1693,7 @@ void OverviewFrame::mediumClicked()
 
 void OverviewFrame::hotbitClicked()
 {
-  QDesktopServices::openUrl(QUrl("https://www.nibble-nibble.com", QUrl::TolerantMode));
+  QDesktopServices::openUrl(QUrl("https://www.nibble-nibble.com/nibble-network-vpn", QUrl::TolerantMode));
 }
 
 void OverviewFrame::stexClicked()
