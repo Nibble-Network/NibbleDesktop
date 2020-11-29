@@ -1130,7 +1130,7 @@ border: none;</string>
          <rect>
           <x>710</x>
           <y>65</y>
-          <width>93</width>
+          <width>205</width>
           <height>28</height>
          </rect>
         </property>
@@ -1143,7 +1143,7 @@ border: none;
 text-align: left;</string>
         </property>
         <property name="text">
-         <string>Nibble</string>
+         <string>VPN - Site Code: </string>
         </property>
        </widget>
        <widget class="QPushButton" name="m_stexButton">
@@ -1151,7 +1151,7 @@ text-align: left;</string>
          <rect>
           <x>910</x>
           <y>65</y>
-          <width>93</width>
+          <width>193</width>
           <height>28</height>
          </rect>
         </property>
